@@ -1,7 +1,11 @@
 Something has been changed. I don't know when I wrote this. 
 
 
+<<<<<<< HEAD
 another merge test : now I change the line
+=======
+another merge I deleted1
+>>>>>>> ef8b31629a1530fa836456df9dd639180dae0d16
 fetch test 
 
 
